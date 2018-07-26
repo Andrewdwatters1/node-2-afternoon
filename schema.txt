@@ -1,0 +1,10 @@
+-- Root
+   -- .env
+   -- index.js
+   -- package.json
+   -- .gitignore
+   -> postman collection
+      --unk
+   
+   -> db folder
+      --sql query files
